@@ -105,7 +105,7 @@ training_args = {
 ### 注意事項
 
 - このデータセットは実験的なものです
-- 副作用あり：一部の常識問題で精度低下、回答の冗長化
+- 副作用あり：一部の常識問題で精度低下、回答がループすることがある
 - 万能薬ではありません
 
 ### ライセンス
@@ -231,7 +231,7 @@ training_args = {
 ### Caveats
 
 - This dataset is experimental
-- Side effects exist: decreased accuracy on some commonsense questions, verbose responses
+- Side effects exist: decreased accuracy on some commonsense questions, occasional response loops
 - Not a silver bullet
 
 ### License
