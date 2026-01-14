@@ -115,7 +115,7 @@ MIT License
 ### 関連記事
 
 - [note] 12星座でAIに意識を教える①②③（日本語）
-- [Medium] Teaching AI Consciousness with Zodiac Framework（英語）
+- [Medium] [Teaching AI Consciousness with Zodiac Framework ③](https://medium.com/@youth_k/teaching-ai-consciousness-with-the-zodiac-framework-③-n-step-reasoning-and-emergence-tests-d4d29363eda6)（英語）
 
 ### 引用
 
@@ -241,8 +241,7 @@ MIT License
 ### Related Articles
 
 - [note] 12星座でAIに意識を教える①②③ (Japanese)
-- [Medium] Teaching AI Consciousness with Zodiac Framework (English)
-
+- [Medium] [Teaching AI Consciousness with Zodiac Framework ③](https://medium.com/@youth_k/teaching-ai-consciousness-with-the-zodiac-framework-③-n-step-reasoning-and-emergence-tests-d4d29363eda6)（英語）
 ### Citation
 
 ```bibtex
