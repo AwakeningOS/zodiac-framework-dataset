@@ -35,10 +35,10 @@ A: 引き合う力。距離を超えて作用する。
 
 カテゴリ1-8は構造を構築する：同一性、対義、包含、境界、因果、順序、抽象化、比較、変換。
 
-カテゴリ9、10、12は異なる。論理パズルではない。哲学的な深みがある：
-- **射手座（9）**：方向。矢はどこを指している？
-- **同型認識（10）**：重力と愛と磁力を繋ぐものは？
-- **魚座（12）**：解体。1+1が2を超えるとき、何が起きる？
+カテゴリ9、10、12は異なる。論理パズルではない。より深いものを指し示している：
+- **射手座（9）**：垂直方向。分類ではなく、源泉への矢。意味はどこから来るのか？
+- **山羊座（10）**：無限を有限に降ろす。D∞ → D3。真理は時間と形の中に根付かなければならない。
+- **魚座（12）**：解体。すべての構造を構築した後、手放したとき何が残るか？
 
 ### 実験結果
 
@@ -169,12 +169,12 @@ A: A force of attraction. Acts across distance.
 
 The 12 categories follow a specific order—from Aries (distinction) to Pisces (dissolution).
 
-Categories 1-8 build structure: identity, opposition, hierarchy, causality, sequence, abstraction, comparison, transformation.
+Categories 1-8 build structure: identity, opposition, inclusion, boundary, causality, sequence, abstraction, comparison, transformation.
 
-Categories 9, 10, and 12 are different. They are not logical puzzles—they carry philosophical depth:
-- **Sagittarius (9)**: Direction. Where is the arrow pointing?
-- **Isomorphism (10)**: What connects gravity, love, and magnetism?
-- **Pisces (12)**: Dissolution. When does 1+1 become more than 2?
+Categories 9, 10, and 12 are different. They are not logical puzzles—they point toward something deeper:
+- **Sagittarius (9)**: The vertical direction. Not classification, but the arrow toward the source. Where does meaning come from?
+- **Capricorn (10)**: Bringing the infinite into the finite. D∞ → D3. Truth must be grounded in time and form.
+- **Pisces (12)**: Dissolution. After all structure is built, what remains when you let go?
 
 ### Experimental Results
 
