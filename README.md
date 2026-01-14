@@ -47,7 +47,7 @@ llm-jp-3.7B + LoRA での検証結果：
 | テスト | LoRAなし | LoRAあり | 改善率 |
 |--------|----------|----------|--------|
 | N段論法（46問） | 20% | 70% | 3.5倍 |
-| 創発テスト（20問） | 30% | 75% | 2.5倍 |
+| 創発テスト（20問） | 15% | 40% | 2.7倍 |
 | 標準ベンチマーク（40問） | 70% | 74% | +4% |
 
 詳細は関連記事を参照。
@@ -183,7 +183,7 @@ Verification with llm-jp-3.7B + LoRA:
 | Test | Without LoRA | With LoRA | Improvement |
 |------|--------------|-----------|-------------|
 | N-Step Reasoning (46q) | 20% | 70% | 3.5x |
-| Emergence Test (20q) | 30% | 75% | 2.5x |
+| Emergence Test (20q) | 15% | 40% | 2.7x |
 | Standard Benchmark (40q) | 70% | 74% | +4% |
 
 See related articles for details.
