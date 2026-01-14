@@ -1,0 +1,56 @@
+{
+  "description": "LoRA training config for Zodiac Framework Dataset",
+  
+  "base_model": {
+    "training": "llm-jp/llm-jp-3-3.7b",
+    "inference": "llm-jp/llm-jp-3-3.7b-instruct",
+    "note": "Train on Base, inference on Instruct (Hybrid method)"
+  },
+
+  "lora_config": {
+    "r": 96,
+    "lora_alpha": 96,
+    "target_modules": ["q_proj", "v_proj", "down_proj"],
+    "lora_dropout": 0.05,
+    "bias": "none",
+    "task_type": "CAUSAL_LM"
+  },
+
+  "training_args": {
+    "num_train_epochs": 5,
+    "learning_rate": 1e-4,
+    "lr_scheduler_type": "cosine",
+    "warmup_ratio": 0.1,
+    "per_device_train_batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "fp16": true,
+    "logging_steps": 10,
+    "save_strategy": "epoch"
+  },
+
+  "generation_config": {
+    "max_new_tokens": 200,
+    "temperature": 0.3,
+    "top_p": 0.95,
+    "repetition_penalty": 1.05
+  },
+
+  "experimental_notes": {
+    "what_worked": [
+      "Base→Instruct hybrid (train on Base, infer on Instruct)",
+      "Rank 96 with 1:1 alpha ratio",
+      "Target only q_proj, v_proj, down_proj",
+      "5 epochs (not too many)"
+    ],
+    "what_failed": [
+      "Rank 256 + 10 epochs = catastrophic overfitting",
+      "Instruct→Instruct = loops and verbosity",
+      "All layers targeting = base capability collapse"
+    ],
+    "side_effects": [
+      "Some commonsense questions degraded",
+      "Occasional response loops",
+      "Training concepts leak into unrelated contexts"
+    ]
+  }
+}
