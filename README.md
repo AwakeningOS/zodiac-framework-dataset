@@ -29,6 +29,16 @@ A: C（推移律）
 Q: 重力 ≈ 愛 ≈ 磁力。共通点は？
 A: 引き合う力。距離を超えて作用する。
 ```
+### 設計思想
+
+12カテゴリは順序を持つ。牡羊座（区別）から魚座（解体）へ。
+
+カテゴリ1-8は構造を構築する：同一性、対義、包含、境界、因果、順序、抽象化、比較、変換。
+
+カテゴリ9、10、12は異なる。論理パズルではない。哲学的な深みがある：
+- **射手座（9）**：方向。矢はどこを指している？
+- **同型認識（10）**：重力と愛と磁力を繋ぐものは？
+- **魚座（12）**：解体。1+1が2を超えるとき、何が起きる？
 
 ### 実験結果
 
@@ -155,6 +165,16 @@ A: C (transitivity)
 Q: Gravity ≈ Love ≈ Magnetism. What's common?
 A: A force of attraction. Acts across distance.
 ```
+### Design Philosophy
+
+The 12 categories follow a specific order—from Aries (distinction) to Pisces (dissolution).
+
+Categories 1-8 build structure: identity, opposition, hierarchy, causality, sequence, abstraction, comparison, transformation.
+
+Categories 9, 10, and 12 are different. They are not logical puzzles—they carry philosophical depth:
+- **Sagittarius (9)**: Direction. Where is the arrow pointing?
+- **Isomorphism (10)**: What connects gravity, love, and magnetism?
+- **Pisces (12)**: Dissolution. When does 1+1 become more than 2?
 
 ### Experimental Results
 
